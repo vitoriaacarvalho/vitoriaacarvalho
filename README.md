@@ -27,7 +27,7 @@ Here are some ideas to get you started:
    <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
    <img align="center" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="right" alt="euuu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971884244639043614/1018550537387528253/download20220900125553.png?width=389&height=389">
+    <img align="right" alt="euuu-pic" height="150" src="https://media.discordapp.net/attachments/971884244639043614/1018550537387528253/download20220900125553.png?width=389&height=389">
 </div>                           
    
    
