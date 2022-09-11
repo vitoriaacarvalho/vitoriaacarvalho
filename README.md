@@ -31,3 +31,4 @@ Here are some ideas to get you started:
    
 <hr>
           
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
