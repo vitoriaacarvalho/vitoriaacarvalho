@@ -19,6 +19,8 @@ Here are some ideas to get you started:
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaacarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <hr>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
+  <hr>
 <div>
    <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
