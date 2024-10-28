@@ -1,4 +1,4 @@
-## Oiii, meu nome é Vitória e eu gosto muito de Java!☕
+## Hi! My name is Vitória and I'm a Java lover ❤️
 
 <!--
 **vitoriaacarvalho/vitoriaacarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,24 +12,30 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 -->
+<br>🔹 I’m a Backend Developer with a focus on Java and Spring Boot.
+<br>❤️ I have a special place in my heart for writing quality code. 
+<br>🔹 I have a strong background in building web backend applications, with experience in Clean Architecture and design patterns to ensure organized, robust, and scalable solutions.
+<br>🔹 In addition to developing new projects, I work on maintaining and enhancing legacy systems.
+<br>🛠️ Technologies & Tools
+<br>Java 17+, Spring Boot (security, MVC, Hibernate, JPA, JUnit)
+<br>Docker & Jenkins
+<br>AWS Services
+<br>MySQL & PostgreSQL
+<br>Swagger
+<br>🌱 Current Focus
+<br>In addition to working fulltime, I'm also currently pursuing a Master's Degree at UFPB, where I’m researching the application of machine learning to predict dementia in elderly patients, using wearable devices as the primary data source.
+<br>💡 Values
+<br>I’m committed to writing clean, well-structured code and continuously improving my skills to deliver efficient solutions and growing more and more as a developer.
+<br>🤝 Let’s Connect!
+<br>📫 www.linkedin.com/in/vitória-de-barros
+<br>📫 vitoriaprogramadora@gmail.com
+
 <div align="center">
   <a href="https://github.com/vitoriaacarvalho">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=vitoriaacarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaacarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<hr>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980" style="max-width: 100%;">
-  <hr>
-<div>
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />    
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-   <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="right" alt="euuu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/971884244639043614/1018550537387528253/download20220900125553.png?width=389&height=389" />
-</div>                           
- 
+
 </div>    
 <hr>
