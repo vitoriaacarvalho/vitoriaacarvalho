@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 <br>🛠️ Technologies & Tools
 <br> - Java 17+, Spring Boot (security, MVC, Hibernate, JPA, JUnit)
-<br> - Docker & Jenkins
+<br> - Docker 
+<br> - Jenkins
 <br> - AWS Services
 <br> - MySQL & PostgreSQL
 <br> - Swagger
