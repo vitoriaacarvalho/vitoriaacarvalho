@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-<br>🔹 I’m a Backend Developer with a focus on Java and Spring Boot.
+🔹 I’m a Backend Developer with a focus on Java and Spring Boot.
 <br>❤️ I have a special place in my heart for writing quality code. 
 <br>🔹 I have a strong background in building web backend applications, with experience in Clean Architecture and design patterns to ensure organized, robust, and scalable solutions.
 <br>🔹 In addition to developing new projects, I work on maintaining and enhancing legacy systems.
