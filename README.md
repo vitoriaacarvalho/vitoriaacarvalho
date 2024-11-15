@@ -37,10 +37,5 @@ Here are some ideas to get you started:
 <br>📫 www.linkedin.com/in/vitória-de-barros
 <br>📫 vitoriaprogramadora@gmail.com
 
-<div align="center">
-  <a href="https://github.com/vitoriaacarvalho">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoriaacarvalho&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 </div>    
 <hr>
