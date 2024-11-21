@@ -1,4 +1,4 @@
-## Hi! My name is Vitória and I'm a Java lover ❤️
+## Hi! My name is Vitória ❤️
 
 <!--
 **vitoriaacarvalho/vitoriaacarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,13 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-🔹 I’m a Backend Developer with a focus on Java and Spring Boot.
+🔹I'm a developer and a master's student
 <br>❤️ I have a special place in my heart for writing quality code. 
 <br>🔹 I have a strong background in building web backend applications, with experience in Clean Architecture and design patterns to ensure organized, robust, and scalable solutions.
 <br>🔹 In addition to developing new projects, I work on maintaining and enhancing legacy systems.
 
 <br>🛠️ Technologies & Tools
 <br> - Java 17+, Spring Boot (security, MVC, Hibernate, JPA, JUnit)
+<br> - Typescript
+<br> - Nodejs
+<br> - React
 <br> - Docker 
 <br> - Jenkins
 <br> - AWS Services
